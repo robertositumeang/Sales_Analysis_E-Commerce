@@ -1,5 +1,5 @@
 # E-Commerce Growth Analysis Project 🚀
-
+---
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -178,7 +178,7 @@ pip install -r requirements.txt
 ## Contact
 [Roberto Pangihutan Situmeang]
 - GitHub: [@robertositumeang](https://github.com/robertositumeang)
-- LinkedIn: [Roberto Situmeang](https://www.linkedin.com/in/roberto-situmeang)]
+- LinkedIn: [Roberto Situmeang](https://www.linkedin.com/in/roberto-situmeang)
 - Email: [pasitumeangroberto@gmail.com](pasitumeangroberto@gmail.com)
 
 ---
