@@ -79,8 +79,10 @@ My analysis aims to address these challenges by leveraging data-driven insights 
    - Product category performance
    - Delivery performance metrics
 
-## Key Findings
 
+![2025-01-28_18h26_45](https://github.com/user-attachments/assets/f5332410-2c4d-4ef3-b65d-fa961f15a1db)
+
+## Key Findings
 ### Revenue Analysis 📈
 - Total revenue reached $33.78M with 87K orders
 - Peak monthly revenue: $3M (Early 2018)
