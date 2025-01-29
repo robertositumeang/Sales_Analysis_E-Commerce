@@ -1,4 +1,4 @@
-# E-Commerce Growth Analysis Project 🚀
+# E-Commerce Sales Analysis Project 🚀
 ---
 ## Table of Contents
 
